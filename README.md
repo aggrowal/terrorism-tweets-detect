@@ -1,1 +1,1 @@
-# terrorism-tweets-detect
+# Terrorism Tweets Detect
